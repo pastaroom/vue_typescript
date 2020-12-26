@@ -26,10 +26,10 @@
       "port": 5006
     },
     "firestore": {
-      "port": 5005
+      "port": 5009
     },
     "database": {
-      "port": 9002
+      "port": 9008
     },
     "hosting": {
       "port": 5019
