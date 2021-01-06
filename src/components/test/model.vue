@@ -6,6 +6,7 @@
         </v-card-text>
         <v-card-actions>
             <v-btn @click="read">read</v-btn>
+            <v-btn @click="read">read</v-btn>
             <v-btn @click="write">write</v-btn>
             <v-btn @click="update">update</v-btn>
         </v-card-actions>
