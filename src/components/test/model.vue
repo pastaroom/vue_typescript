@@ -8,6 +8,7 @@
             <v-btn @click="read">read</v-btn>
             <v-btn @click="write">write</v-btn>
             <v-btn @click="update">update</v-btn>
+            <v-btn @click="update">update</v-btn>
         </v-card-actions>
     </v-card>
 </template>
